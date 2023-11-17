@@ -5,7 +5,7 @@
 
 </div>
 
-## Learn PytOrch in ~25hours
+## Learn PyTorch in ~25hours
     Beginner steps to learn pytorch.
         Course by Daniel Burke, posted by freecodecamp.org
 
