@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: center">
-<img width="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fopensource.freecodecamp.org%2Fdesign-style-guide%2Fdownloads%2Ffcc_secondary_large.png&f=1&nofb=1&ipt=c1da9ac66b33b605e64313dff9dd42fd3bf318f60af013c31706cbbaf9c34b41&ipo=images" alt="freecodecamp" href="https://www.freecodecamp.org/" style="margin-right: 10px">
+<div align="center" style="display: flex; align-items: center; justify-content: center"">
+<img width="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fopensource.freecodecamp.org%2Fdesign-style-guide%2Fdownloads%2Ffcc_secondary_large.png&f=1&nofb=1&ipt=c1da9ac66b33b605e64313dff9dd42fd3bf318f60af013c31706cbbaf9c34b41&ipo=images" alt="freecodecamp" href="https://www.freecodecamp.org/" style="margin-right: 10px; "background-color:#ffffff">
 <img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fytc%2FAKedOLQF3gTihhEVxTQUEhaF4ITdff0qa7OOYqGDj2h4o7s%3Ds900-c-k-c0x00ffffff-no-rj&f=1&nofb=1&ipt=8e6388835fefda982a4c8244ce703e0c22c606a921a73af7fabb989ed43e2caf&ipo=images" style="border-radius:100px" alt="Daniel Bourke youtube avatar" href="https://www.youtube.com/@mrdbourke">
 <img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fshiftlab.github.io%2Fpytorch%2Fassets%2Fimages%2Fpytorch-logo.png&f=1&nofb=1&ipt=3db007be53995e82628a0b856cb5dfc977d507fba7ef4e6ad069e634d134fe17&ipo=images" alt="PyTorch Logo" href="https://pytorch.org/">
 
