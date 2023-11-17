@@ -7,7 +7,7 @@
 
 ## Learn PyTorch in ~25hours
     Beginner steps to learn pytorch.
-        Course by Daniel Burke, posted by freecodecamp.org
+        Course by Daniel Bourke, posted by freecodecamp.org
 
 ### References:
 - video link: https://www.youtube.com/watch?v=V_xro1bcAuA&t=26s
