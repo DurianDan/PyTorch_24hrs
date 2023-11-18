@@ -10,7 +10,9 @@
         Course by Daniel Bourke, posted by freecodecamp.org
 
 ### References:
-- video link: https://www.youtube.com/watch?v=V_xro1bcAuA&t=26s
+- Course:
+    - [Video version](https://www.youtube.com/watch?v=V_xro1bcAuA&t=26s)
+    - [Website version](https://www.learnpytorch.io/#about-this-course)
 - course repo: `excercises/`: https://github.com/mrdbourke/pytorch-deep-learning
 ### Course Progress
 
