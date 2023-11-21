@@ -17,24 +17,24 @@
 ### Course Progress
 
 #### 🛠 Chapter 0 – PyTorch Fundamentals
-- =>***0:01:45* 0. Welcome and "what is deep learning?"** 
-- *0:07:41* 1. Why use machine/deep learning?
-- *0:11:15* 2. The number one rule of ML
-- *0:16:55* 3. Machine learning vs deep learning
-- *0:23:02* 4. Anatomy of neural networks
-- *0:32:24* 5. Different learning paradigms
-- *0:36:56* 6. What can deep learning be used for?
-- *0:43:18* 7. What is/why PyTorch?
-- *0:53:33* 8. What are tensors?
-- *0:57:52* 9. Outline
-- *1:03:56* 10. How to (and how not to) approach this course
-- *1:09:05* 11. Important resources
-- *1:14:28* 12. Getting setup
-- *1:22:08* 13. Introduction to tensors
-- *1:35:35* 14. Creating tensors
-- *1:54:01* 17. Tensor datatypes
-- *2:03:26* 18. Tensor attributes (information about tensors)
-- *2:11:50* 19. Manipulating tensors
+- ✅*0:01:45* 0. Welcome and "what is deep learning?"
+- ✅*0:07:41* 1. Why use machine/deep learning?
+- ✅*0:11:15* 2. The number one rule of ML
+- ✅*0:16:55* 3. Machine learning vs deep learning
+- ✅*0:23:02* 4. Anatomy of neural networks
+- ✅*0:32:24* 5. Different learning paradigms
+- ✅*0:36:56* 6. What can deep learning be used for?
+- ✅*0:43:18* 7. What is/why PyTorch?
+- ✅*0:53:33* 8. What are tensors?
+- ✅*0:57:52* 9. Outline
+- ✅*1:03:56* 10. How to (and how not to) approach this course
+- ✅*1:09:05* 11. Important resources
+- ✅*1:14:28* 12. Getting setup
+- ✅*1:22:08* 13. Introduction to tensors
+- ✅*1:35:35* 14. Creating tensors
+- ✅*1:54:01* 17. Tensor datatypes
+- ✅*2:03:26* 18. Tensor attributes (information about tensors)
+- => ***2:11:50* 19. Manipulating tensors**
 - *2:17:50* 20. Matrix multiplication
 - *2:48:18* 23. Finding the min, max, mean & sum
 - *2:57:48* 25. Reshaping, viewing and stacking
