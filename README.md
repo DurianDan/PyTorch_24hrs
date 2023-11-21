@@ -34,10 +34,10 @@
 - ✅*1:35:35* 14. Creating tensors
 - ✅*1:54:01* 17. Tensor datatypes
 - ✅*2:03:26* 18. Tensor attributes (information about tensors)
-- => ***2:11:50* 19. Manipulating tensors**
-- *2:17:50* 20. Matrix multiplication
-- *2:48:18* 23. Finding the min, max, mean & sum
-- *2:57:48* 25. Reshaping, viewing and stacking
+- ✅*2:11:50* 19. Manipulating tensors
+- ✅*2:17:50* 20. Matrix multiplication
+- ✅*2:48:18* 23. Finding the min, max, mean & sum
+- => ***2:57:48* 25. Reshaping, viewing and stacking**
 - *3:11:31* 26. Squeezing, unsqueezing and permuting
 - *3:23:28* 27. Selecting data (indexing)
 - *3:33:01* 28. PyTorch and NumPy
